@@ -68,7 +68,7 @@ Mark pops in/joins the game.
 
 [Dakota] Mark, Melissa plays Halo 3. You know that famous forge artist Melissanator? The one that made the MLG maps in all of Zola Media's montages? That's the Melissa we know.
 
-[Mark] And why my ex being here make me *want* to play?
+[Mark] And why would hemy ex being here make me *want* to play?
 
 [Dakota] She has a better K/D than you.
 
@@ -104,7 +104,7 @@ The second scene should introduce Melissa. It should show her as domineering.
 
 Melissa will have a her sniper and be scoping out the sniper's nest, showing Dakota's back there. Next to her is her team mate.
 
-Melissa lowers her rifle and turns to here teammate.
+Melissa lowers her rifle and turns to her teammate.
 
 [Melissa] They're just playing with their dicks up their. This ought to be relatively easy.
 
