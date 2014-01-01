@@ -8,7 +8,7 @@ The first scene should introduce Dakota, Addison, and then Mark. It should show 
 
 Dakota is in the sniper nest, scoping out the map. Addison pops in/joins the game.
 
-[Addison] Hey Dakota.
+[Addison] Hey.
 
 [Dakota] Hey Addison.
 
@@ -66,9 +66,9 @@ Mark pops in/joins the game.
 
 [Addison] {silence}
 
-[Dakota] Mark, Melissa plays Halo 3. You know that famous forge artist Melissanator? The one that made the MLG maps in all of Zola Media's montages? That's the Melissa we know.
+[Dakota] Mark, Melissa plays Halo 3.
 
-[Mark] And why would hemy ex being here make me *want* to play?
+[Mark] And why would my ex being here make me *want* to play?
 
 [Dakota] She has a better K/D than you.
 
@@ -78,7 +78,7 @@ Mark pops in/joins the game.
 
 [Dakota] Well?
 
-[Mark] Fine. I'll play with you guys. But only until I have a better K/D than her. What is it?
+[Mark] Fine. I'll play with you guys. But only to honor my commitment to being better than her at everything. Once I've got a higher K/D I'm out. What's hers?
 
 Dakota and Addison exchange a look.
 
@@ -86,7 +86,7 @@ Dakota and Addison exchange a look.
 
 [Mark] WHAT?
 
-[Dakota] And we're playing her today.
+[Dakota] And we're playing her in a few seconds.
 
 [Mark] WHAT?
 
@@ -106,7 +106,7 @@ Melissa will have a her sniper and be scoping out the sniper's nest, showing Dak
 
 Melissa lowers her rifle and turns to her teammate.
 
-[Melissa] They're just playing with their dicks up their. This ought to be relatively easy.
+[Melissa] They're just playing with their dicks up there.
 
 [Teammate] Why are they standing facing each other?
 
@@ -122,13 +122,13 @@ Melissa lowers her rifle and turns to her teammate.
 
 [Teammate] What? No that's retarded. If they start shooting at me what am I supposed to do, run?
 
-[Melissa] Exactly. You'll do fine.
+[Melissa] Yes, but don't forget to tell me where.
 
 [Teammate] Wow ok this is stupid. I'm going to forge with my friends.
 
 Teammate quits/leaves the game.
 
-[Melissa] Whatever.
+[Melissa] {what a prick} Whatever.
 
 Melissa starts making progess up the shore.
 
