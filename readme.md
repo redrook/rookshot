@@ -83,8 +83,8 @@ All characters should have distinguishable armour, not just colors.
 
 ### Chapter One
 
-Dakota, Addison, and Mark will encounter Melissa in a matchmaking game. She will destroy Mark, and Dakota and Addison will be impressed by her because of her fame in the forge community.
+Dakota, Addison, and Mark will play a team game against Melissa. Melissa will destroy them all, and inspire Mark to seek vengeance through other mediums.
 
 ### Chapter Two
 
-Mark will forge a shitty map, and release it under Melissa's gamertag to get back at her. Jordan (not-yet-identified) will join his game and start attacking him. Dakota and Addison try to find a way to save him; Dakota won't let Mark kick him because it would break the fourth wall.
+Mark will show Dakota and Addison Melissa's forge maps, and confide in them his plan to release a shitty map under her name to ruin her reputation. The plan falls through when he learns that bungie no longer hosts Halo 3 maps, and everyone has moved on to Reach or 4. Melissa rubs it in. They decide on going into the clan matches to beat her, against reason.
