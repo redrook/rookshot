@@ -40,15 +40,15 @@ Mark pops in/joins the game.
 
 [Dakota] Alright we're all here. Did you guys read the character bios I sent you?
 
-[Mark] Oh not this shit again, Dakota. I still get dick pics from the last time.
+[Mark] Oh not this shit again, Dakota. I still get dick pics from the last time I signed up for one of your stupid online roleplaying forums.
 
-[Addison] Yeh Dakota my new phone charges me like twenty sents per picture message so I'm ~~not sure if I want~~ {strikethrough is interrupted}
+[Addison] Yeh Dakota my new phone charges me like twenty cents per picture message so I'm ~~not sure if I want~~ {strikethrough is interrupted}
 
-[Dakota] There won't be any dick pics this time! Promise.
+[Dakota] There won't be any dick pics this time! I promise. The web admin was getting divorced and he was going through some emotional shit but that's all done now.
 
 [Mark] Yeh well I'm still using fake phone number on the sign up.
 
-[Dakota] There's no sign up; it's not a competition; I just want to to roleplay in matchmaking and customs.
+[Dakota] There's no sign up; I just want to to roleplay for some custom games, and if we're good enough maybe this year's clan tournament.
 
 [Addison] What? Like the other people won't be roleplaying?
 
@@ -66,27 +66,41 @@ Mark pops in/joins the game.
 
 [Addison] {silence}
 
-[Dakota] Mark, Melissa plays Halo 3.
+[Dakota] Mark, if you play with us through the clan tournament I'll buy that stupid game on steam you're always talking about and play the co op campaign with you?
 
-[Mark] And why would my ex being here make me *want* to play?
+[Mark] Just Cause 2?
 
-[Dakota] She has a better K/D than you.
+[Dakota] Yeh that one.
 
-[Addison] Oooooooooooooooooooooooooooooooooohhhhhhhhhhhhhhhhhhhhhhhh.
+[Mark] Hmm. You have to buy the dlc too though.
 
-[Mark] Shut the fuck up Addison.
+[Dakota] Done. By the way, Melissa is on the team we're playing with today.
 
-[Dakota] Well?
+[Mark] My ex girlfriend from high school?
 
-[Mark] Fine. I'll play with you guys. But only to honor my commitment to being better than her at everything. Once I've got a higher K/D I'm out. What's hers?
+[Dakota] That one.
+
+[Mark] Oh sweet. I'm going to destroy that bitch.
 
 Dakota and Addison exchange a look.
 
-[Dakota] 7.
+[Addison] You tell him.
+
+[Dakota] No no, you. You found them.
+
+[Addison] {turns to mark} Uh well. I was looking up her stats online before the game ~~today and~~ {strike through is interrupted}
+
+[Dakota] You mean you contacted the UNSC for her training records.
+
+[Addison] Err. Right, anyway--
+
+[Mark] Just tell me what her K/D is.
+
+[Addison] {pause} Seven.
 
 [Mark] WHAT?
 
-[Dakota] And we're playing her in a few seconds.
+[Addison] And the game's starting in a few seconds.
 
 [Mark] WHAT?
 
