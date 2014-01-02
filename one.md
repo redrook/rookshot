@@ -76,9 +76,9 @@ Mark pops in/joins the game.
 
 [Dakota] Done. By the way, Melissa is on the team we're playing with today.
 
-[Mark] My ex girlfriend from high school?
+[Mark] My ex girlfriend?
 
-[Dakota] That one.
+[Dakota] That's the one.
 
 [Mark] Oh sweet. I'm going to destroy that bitch.
 
@@ -136,7 +136,7 @@ Melissa lowers her rifle and turns to her teammate.
 
 [Teammate] What? No that's retarded. If they start shooting at me what am I supposed to do, run?
 
-[Melissa] Yes, but don't forget to tell me where.
+[Melissa] Yes, but don't forget to tell me where they are.
 
 [Teammate] Wow ok this is stupid. I'm going to forge with my friends.
 
@@ -158,7 +158,7 @@ Mark proceeds to fire four rounds in succession, all missing in different direct
 
 ---
 
-Melissa laughs and continutes walking up the hill.
+Melissa laughs and continues walking up the hill.
 
 ---
 
@@ -170,9 +170,9 @@ Dakota walks off the turret to yell from the bottom of the stairs.
 
 [Dakota] What was that Mark?
 
-[Mark] God damn it. I mean, uh, I need to take sedatives.
+[Mark] God damn it. I mean, uh, I need to take muscle relaxants to steady my shot.
 
-[Dakota] {turns and walks away} Dumbass.
+[Dakota] {turns and walks back to the turret} Dumb ass.
 
 Dakota sees Melissa from the bridge turret.
 
@@ -200,13 +200,13 @@ Melissa melees Mark from behind.
 
 Mark respawns in the lobby.
 
-[Mark] Damn it damn it damn it damn it damn it. {fires randomly in all directions, jumping around}
+[Mark] Damn it I hate her! Damn it I hate her! !Damn it I hate her! Damn it I hate her! Damn it I hate her! {fires randomly in all directions, jumping around}
 
 Dakota watches this happen.
 
 ---
 
-Addison is at the bottom of the stairs to the sniper nest. He can see Melissa tbagging Mark, yelling about it.
+Addison is at the bottom of the stairs to the sniper nest. He can see Melissa t-bagging Mark, yelling about it.
 
 [Addison] Sorry Melissa. {throws spike grenade}
 
@@ -218,7 +218,11 @@ Addison spawns in the lobby.
 
 [Addison] Wait, what happened? I just got a kill.
 
-[Dakota] Yeh. It was a game of last man standing. Apparently her teammate left, so we won when she died.
+[Dakota] Yeh. It was a game of last man standing. Did you kill her?
+
+[Addison] Yeh.
+
+[Dakota] Then I guess her team mate left earlier.
 
 Mark is still shooting everywhere.
 
@@ -230,19 +234,19 @@ Mark stops shooting and starts running toward Dakota and Addison.
 
 [Dakota] {looks at Addison} Called it.
 
-[Mark] I've got a idea.
+[Mark] I've got an idea.
 
 [Addison] Oh no.
 
 [Dakota] Spill it.
 
-[Mark] I can't kill her in competitive play, but I know where I can beat her.
+[Mark] I can't kill her in competitive play, but I know where I can hit her.
 
-[Addison] Dude she has a 7 K/D and she's a famous forge artist. What else is there in Halo 3?
+[Addison] Dude she has a 7 K/D and you can't even hit me with a shotgun at point blank. What are you going to do?
 
 [Mark] Slander. {Mark pops out/leaves game}
 
-[Addison] What is talking about?
+[Addison] What is he talking about?
 
 [Dakota] I don't know, but he'll need supervision.
 
