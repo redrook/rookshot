@@ -150,6 +150,30 @@ Dakota and Addison both just look at him.
 
 Scene three is the music video portion, which will depend on the lyrics. Jacob has the initial commit for this.
 
+Actually Jacob already made the initial commit for this. Lyrics below.
+
+You told me that you rocked in bed
+That you were great at games and had tons of friends
+But we both know that this isn't true
+And now I'm ashamed I ever dated you
+
+Douchebag, your collar's popped so high
+I'd love to kill you, but it looks like you already died
+(he could be like “no I didn't” and then immediately gets killed by her)
+
+I hate to pop into your lobby uninvited
+But I just had to say, I'm feeling slighted
+You play my favorite game, and now I am reminded
+That I can do so much better
+(he could be like “seriously, are you finished?”)
+
+Never will, I date someone like you
+I wish nothing but the worst for you too
+I won't forgive you, or beg
+And I told all of my friends
+Sometimes it lasts in love, but you never did in bed
+Sometimes it lasts in love, but you never did in bed
+
 Things to include
 
 * A crowd of minions with charged energy pistols waving them like candles yelling praise at Melissa.
