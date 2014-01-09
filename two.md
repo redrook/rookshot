@@ -159,9 +159,8 @@ And now I'm ashamed I ever dated you
 
 Douchebag, your collar's popped so high
 I'd love to kill you, but it looks like you already died
-(he could be like “no I didn't” and then immediately gets killed by her)
 
-[Mark] No I didn't.
+[Mark] What? No I didn't.
 Mark gets sniped by Melissa.
 
 I hate to pop into your lobby uninvited
@@ -188,16 +187,16 @@ Things to include
 
 Mark, Dakota, and Addison are left alone after Melissa and her minions leave.
 
-[Mark] She is so into me.
+[Mark] I can't believe she's still into me.
 
 [Dakota] Are you fucking dense?
 
-[Mark] Nope, just handsome, great at sex, video games, and being awesome in general.
+[Mark] She wrote a song about me! It's probably my good looks, skill in bed, and suave.
 
 [Dakota] Is that it?
 
 [Mark] Well, it is for the short list at least.
 
-[Addison] Dude, you suck at Halo, she killed you while she was singing a song.
+[Addison] Dude, you suck at Halo. She sniped you while leading an improvised concert.
 
-[Mark] Yeah, but that's because I was adjusting my sensitivity, it was way too high.
+[Mark] Dude my sensitivity was really high. I could hardly tap the stick without making a 180.
