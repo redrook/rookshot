@@ -10,19 +10,19 @@ Things that *need* to happen in this episode:
 
 Melissa and Cassandra pop into the "lobby" after the concert. (Cassandra is the musical minion with whom Melissa discussed choosing the song.) Melissa walks over to the computer in the lobby and begins to use it.
 
-[Cassandra] (eager/nagging) Are we going to register for the tourney now?
+[Cassandra] \(eager/nagging) Are we going to register for the tourney now?
 
-[Melissa] (annoyed/dismissive) Tournament, and yes.
+[Melissa] \(annoyed/dismissive) Tournament, and yes.
 
-[Cassandra] (eager/nagging) Who's going to be on our team?
+[Cassandra] \(eager/nagging) Who's going to be on our team?
 
-[Melissa] (annoyed/dismissive) Some people.
+[Melissa] \(annoyed/dismissive) Some people.
 
-[Cassandra] (eager/nagging) What people?
+[Cassandra] \(eager/nagging) What people?
 
-[Melissa] (annoyed/dismissive) I don't know yet.
+[Melissa] \(annoyed/dismissive) I don't know yet.
 
-[Cassandra] (waits a bit, unsure of asking the next question) (egaer/nagging) When will you know?
+[Cassandra] \(waits a bit, unsure of asking the next question) (egaer/nagging) When will you know?
 
 [Melissa] Shut up Cassandra!
 
@@ -52,9 +52,9 @@ An Xbox Live invitation sound interrupts Mark at the end of his line.
 
 [Dakota] Hang on, I got invited somewhere.
 
-[Mark] (mocking) Oh yeh? Are you going to walk out of sight before you accept it so you don't break the fourth wall?
+[Mark] \(mocking) Oh yeh? Are you going to walk out of sight before you accept it so you don't break the fourth wall?
 
-[Dakota] (defensive) No!
+[Dakota] \(defensive) No!
 
 Dakota walks around the corner.
 
@@ -148,7 +148,7 @@ Melissa pops out, leaving Addison and Jordan alone together in silence.
 
 [Addison] So....
 
-[Jordan] (quickly) What?
+[Jordan] \(quickly) What?
 
 ## Scene Five
 
@@ -174,7 +174,7 @@ Melissa gets her own slaughter-filled action scene of killing ever person in lin
 
 Melissa pops out, done listening. The Desk continues in the background as Dakota makes his way through the rubble.
 
-[Dakota] (navigating corpses) So sorry. Really sorry about this. She didn't mean it personally.
+[Dakota] \(navigating corpses) So sorry. Really sorry about this. She didn't mean it personally.
 
 [Desk] Next.
 
