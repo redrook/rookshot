@@ -162,40 +162,86 @@ Melissa pops into line behind Dakota at the registrar.
 
 [Dakota] When some guy gave up and killed himself.
 
-[Melissa] I see. (war cry)
+A spartan walks around the corner of the building to announce that the registration is full.
 
-Melissa gets her own slaughter-filled action scene of killing ever person in line and in the registrar building aside from one employee behind the desk.
+[Announcer] I'm sorry everyone, but the registration is closed; both the tournament and tourney have a full roster. You don't have to go home, but you can't ~~stay here.~~
 
-[Desk] Names?
+[Guy in Line 1] Yeh we know the joke, asshole.
 
-[Melissa] Melissa, Addison, and Jordan.
+[Guy in Line 2] Let's get froxen yogurt.
 
-[Desk] ID numbers have been messaged to you. Have your team reply with their ID numbers and ~~names. Be sure to have your team members reply with the correct ID number.~~
+Both guys in line pop out, along with everyone else besides Dakota and Melissa.
 
-Melissa pops out, done listening. The Desk continues in the background as Dakota makes his way through the rubble.
+[Dakota] This sucks!
 
-[Dakota] \(navigating corpses) So sorry. Really sorry about this. She didn't mean it personally.
+[Melissa] Don't worry, we'll be in the tournament.
 
-[Desk] Next.
+[Dakota] What? How?
 
-[Dakota] That's me!
+[Melissa] Let me and my team handle that. You get your team and station the back of the registrar building. Let me know if anyone's coming.
 
-Dakota makes his way to the desk, but Mark pops in ahead of him, at the desk.
+[Dakota] Uh. Ok. (runs off)
 
-[Desk] Names?
+Addison and Jordan spawn in by Melissa.
 
-[Mark] Mark, Dakota, Cassandra.
+[Melissa] Jordan, get some explosives, Addison, get inside that building and quietly find the registration computer.
 
-Desk begins spewing the same line, but audio is overridden by Dakota and Mark.
+[Addison] On it. (runs around the building)
 
-[Dakota] Cassandra? What are you talking about?
+[Jordan] Where am I supposed to find explosives?
 
-[Mark] I'll explain later; come with me.
+[Melissa] Oh, I don't know, maybe that huge pile of nuclear fusion coils? (camera pan to pile)
 
-Both of them pop out. The Desk's audio returns to normal volume, accompanied by shots of the empty building filled with Melissa's carnage.
+[Jordan] \(suspended disbelief/resignation) Right. Of course, the pile of nuclear fusion coils. (runs to pile)
 
-[Desk] ...correct name.
+## Scene Six
 
-Silence & shots of carnage.
+Dakota, Mark, and Cassandra are at the back of the registrar building.
 
-[Desk] Next.
+[Dakota] Addison what?
+
+[Mark] He quit. But it's ok, she joined. (nods to Cassandra)
+
+[Cassandra] Hey!
+
+[Dakota] Uh..hey.
+
+[Cassandra] What are we doing here?
+
+[Dakota] I, uh. We're supposed to guard this building and--
+
+[Mark] Just humor him Cassandra, he's in roleplaying.
+
+[Dakota] I am not! Melissa told me to do it.
+
+[Mark] Oh ok, so it's like S&M.
+
+Dakota stares at Mark.
+
+## Scene Seven
+
+Jordan, and Melissa are at the registrar door with fusion coils piled up.
+
+[Jordan] Ready!
+
+Melissa fires, and knocks the door down.
+
+[Melissa] Head in!
+
+They enter and fire (cameras will appear to be depicting one side of a fight scene), then finding it is just a two story empty room with a computer in the corner, where Addison is standing.
+
+[Addison] Yeh it's kind of lame inside.
+
+[Melissa] Did you register us?
+
+[Addison] Yep, and Dakota's team too.
+
+[Jordan] Who did you unregister to fit us in?
+
+[Addison] I didn't look actually.
+
+[Jordan] Oh.
+
+[Melissa] Let's head to the training arena.
+
+The three of them pop out.
