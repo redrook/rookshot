@@ -18,11 +18,7 @@ Melissa and Cassandra pop into the "lobby" after the concert. (Cassandra is the 
 
 [Melissa] \(annoyed/dismissive) Some people.
 
-[Cassandra] \(eager/nagging) What people?
-
-[Melissa] \(annoyed/dismissive) I don't know yet.
-
-[Cassandra] \(waits a bit, unsure of asking the next question) (egaer/nagging) When will you know?
+[Cassandra] \(waits a bit, unsure of asking the next question) (egaer/nagging) What people?
 
 [Melissa] Shut up Cassandra!
 
@@ -52,11 +48,7 @@ An Xbox Live invitation sound interrupts Mark at the end of his line.
 
 [Dakota] Hang on, I got invited somewhere.
 
-[Mark] \(mocking) Oh yeh? Are you going to walk out of sight before you accept it so you don't break the fourth wall?
-
-[Dakota] \(defensive) No!
-
-Dakota walks around the corner.
+Dakota pops out.
 
 Cassandra pops in between Mark and Addison.
 
