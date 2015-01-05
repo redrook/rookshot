@@ -110,7 +110,7 @@ Melissa is alone back in the "lobby".
 
 Jordan pops in, confused.
 
-[Jordan] How do you keep doing this?
+[Jordan] Who are you?
 
 [Melissa] You need a team for the clan tournament, don't you?
 
@@ -137,8 +137,6 @@ Addison pops in.
 [Melissa] Good then! It's settled, the three of us, with me as captain. I'm going to register us!
 
 Melissa pops out, leaving Addison and Jordan alone together in silence.
-
-[Addison] So....
 
 [Jordan] \(quickly) What?
 
