@@ -174,7 +174,7 @@ Both guys in line pop out, along with everyone else besides Dakota and Melissa.
 
 Addison and Jordan spawn in by Melissa.
 
-[Melissa] Jordan, get some explosives, Addison, get inside that building and quietly find the registration computer.
+[Melissa] Addison, get inside that building and quietly find the registration computer. Jordan, get some explosives.
 
 [Addison] On it. (runs around the building)
 
